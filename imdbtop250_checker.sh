@@ -105,4 +105,7 @@ fi
 
 
 echo "Directories checked successfully by imdbtop250 directory checker $version"
+# EOF
+# !!!+++ This Script Comes Without any Support +++!!!
+# ./Just enjoy it.
 
