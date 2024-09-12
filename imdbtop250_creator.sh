@@ -68,3 +68,6 @@ while IFS= read -r movie; do
 done <<< "$movie_info"
 
 echo "Directories created successfully by imdbtop250 directory creator $version"
+# EOF
+# !!!+++ This Script Comes Without any Support +++!!!
+# ./Just enjoy it.
