@@ -31,6 +31,13 @@
 # - 1.3 iDMBtop250 Corrected cd into SymLink first by TeRRaDude
 # - 1.4 iDMBtop250 Added config path for glftpd by TeRRaDude
 #
+# Note:
+#  Please take note that these scripts come without instructions on how to set
+#  them up, it is sole responsibility of the end user to understand the scripts
+#  function before executing them. If you do not know how to execute them, then
+#  please don't use them. They come with no warranty should any damage happen due
+#  to the improper settings and execution of these scripts (missing data, etc).
+#
 version="1.4 Beta" #2024-04-27
 #
 ##########################################################
@@ -106,6 +113,3 @@ fi
 
 echo "Directories checked successfully by imdbtop250 directory checker $version"
 # EOF
-# !!!+++ This Script Comes Without any Support +++!!!
-# ./Just enjoy it.
-
